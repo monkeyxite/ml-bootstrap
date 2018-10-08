@@ -1,0 +1,9 @@
+[submodule "ml-math"]
+	path = ml-math
+	url = https://github.com/monkeyxite/ml-math.git
+[submodule "ISL"]
+	path = ISL
+	url = https://github.com/monkeyxite/ISL.git
+[submodule "ml-coursera"]
+	path = ml-coursera
+	url = https://github.com/monkeyxite/ml-coursera.git
